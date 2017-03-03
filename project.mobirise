@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Contact.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 24,
     "versionPublish": "3.11.1",
@@ -29,7 +29,7 @@
   "pages": {
     "Photoshop.html": {
       "settings": {
-        "title": "Photoshop",
+        "title": "Kevin Garzon",
         "order": 2
       },
       "components": [
@@ -281,7 +281,7 @@
     },
     "Adobe Illustrator": {
       "settings": {
-        "title": "Illustrator",
+        "title": "Kevin Garzon",
         "order": 3
       },
       "components": [
@@ -533,7 +533,7 @@
     },
     "Contact.html": {
       "settings": {
-        "title": "Contact",
+        "title": "Kevin Garzon",
         "order": 5
       },
       "components": [
@@ -692,7 +692,7 @@
     "introduction.html": {
       "settings": {
         "main": true,
-        "title": "Home page",
+        "title": "Kevin Garzon",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1084,7 +1084,7 @@
     },
     "index.html": {
       "settings": {
-        "title": "Site Builder Title",
+        "title": "Kevin Garzon",
         "meta_descr": "Site Builder Description",
         "order": 1
       },
