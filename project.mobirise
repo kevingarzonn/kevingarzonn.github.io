@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 20,
+    "uniqCompNum": 24,
     "versionPublish": "3.11.1",
     "name": "Kevin Garzons Portfolio",
     "theme": {
@@ -797,17 +797,20 @@
               "color": "#ffffff"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "60px"
             }
           },
           "_anchor": "msg-box5-8",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "0",
+            "imageSize": "42",
+            "paddingTop": "5",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/new-suzuki-gsx-r1000-wallpaper-2000x1250-92.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -815,7 +818,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0.4",
             "overlayColor": "#000000",
             "inverse": true,
             "showTitle": true,
@@ -840,33 +843,34 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "Kevin Garzon Bio",
+          "text": "I am a twelve year old boy i was born in my house in miami and grew up here i have always been interested in working on cars and motorcycles it has been something that brings me happiness for my entire life ever since i was younger i had always loved cars something just sparked inside when i saw the first car that made me fall in love with them all the pontiac firebird it was my grandpa's car.......",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Biography continued</a>"
         },
         {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#df1310"
-            },
-            ".iconbox": {
-              "background-color": "#fc2825",
-              "border-color": "#fc2825"
-            },
-            "P": {
-              "color": "#efefef"
-            },
-            "H4": {
-              "color": "#ffffff"
-            }
-          },
+          "_inherit": "features4",
           "_tags": [
             "Theme"
           ],
-          "_name": "features4",
-          "_anchor": "features4-8",
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#de100d",
+              "border-color": "#de100d"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#e21411"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-l",
           "_params": {
-            "iconsBgColor": "#fc2825",
+            "iconsBgColor": "#de100d",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -881,83 +885,84 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "4",
+            "columns": "2",
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false
           },
           "media1": {
             "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "tools-2",
+              "family": "et-line",
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "phone",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "Mechanic",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "I would like to become a succesful mechanic and maybe get my own shop i have always loved working on vehicles when i work on them i just get a sense of freedom so that is my first goal.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "key",
+              "family": "et-line",
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
-          "title2": "Responsive",
+          "title2": "create my own vehicle brand",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "gears",
-              "family": "et-line",
               "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "briefcase",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#fff",
+              "family": "et-line"
             }
           },
-          "title3": "Mechanic",
-          "subtitle3": "never let anyone tell you no always try",
-          "caption3": "My goal is to become a succesful mechanic and work on cars, motorcycles, quads and more.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "bike",
+              "name": "linegraph",
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#ffffff"
             }
           },
-          "title4": "Create my own vehicle brand",
-          "subtitle4": "Dont let anything stay a dream try your hardest to make it reality",
-          "caption4": "I would like to make my own vehichle brand with affordable good quality cars motorcycles boats and more.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
@@ -968,11 +973,11 @@
           "media6": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
@@ -982,10 +987,54 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Kevin garzon Bio continued",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>I am a twelve year old boy i was born in my house in miami and grew up here i have always been interested in working on cars and motorcycles. It has been something that brings me happiness for my entire life ever since i was younger i had always loved cars something just sparked inside when i saw the first car that made me fall in love with them all the pontiac firebird it was my first time seeing one and i just got a burst of excitement. So from then on me and my dad both had the greatest love for cars so we would go to every car auction car show just anywhere you can see beautiful classic cars.</p>",
+          "text2": "So at that time my dad had a motorcycle as well not the greatest but it was all right. A couple years later he got in a accident and wasnt able to use that motorcycle. so he got a new trike now that thing was a beauty it was a cruiser if you could call it that but had a lot of power."
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts4-8",
           "_params": {
             "paddingTop": 3,
@@ -993,7 +1042,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#4b4a4a",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1020,7 +1069,7 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Phone"
               },
               "message": {
@@ -1137,7 +1186,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1336,10 +1385,42 @@
           "allItem": "All"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCo-474yDkFvO5z7ISIuSk0A\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts4-8",
           "_params": {
             "paddingTop": 3,
@@ -1347,7 +1428,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#4b4a4a",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,

@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -603,6 +605,8 @@ h6,
 #form1-b .mbr-section-title {
   color: #ffffff;
 }
+
+
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -669,18 +673,31 @@ h6,
 }
 #msg-box5-8 H3 {
   color: #ffffff;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 60px;
 }
-#features4-8 .card-subtitle {
-  color: #df1310;
+#features7-l .card-subtitle {
+  color: #bcbcbc;
 }
-#features4-8 .iconbox {
-  background-color: #fc2825;
-  border-color: #fc2825;
+#features7-l .iconbox {
+  background-color: #de100d;
+  border-color: #de100d;
 }
-#features4-8 P {
-  color: #efefef;
+#features7-l P {
+  color: #ffffff;
 }
-#features4-8 H4 {
+#features7-l H4 {
+  color: #e21411;
+}
+#header3-m .mbr-section-title,
+#header3-m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-m H3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+}
+#contacts4-8 P {
   color: #ffffff;
 }
 #ext_menu-8 .hide-buttons .nav-btn {
@@ -762,5 +779,12 @@ h6,
 }
 #header3-f H3 {
   font-size: 36px;
+  color: #ffffff;
+}
+#social-buttons4-k .mbr-section-title,
+#social-buttons4-k .btn-social {
+  color: #fff;
+}
+#contacts4-8 P {
   color: #ffffff;
 }
